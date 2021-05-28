@@ -11,7 +11,7 @@
    </book>
    <book id="bk102">
       <author>Ralls, Kim</author>
-      <title>Midnight Rain</title>
+      <title>THIS IS A TEST 1</title>
       <genre>Fantasy</genre>
       <price>5.95</price>
       <publish_date>2000-12-16</publish_date>
@@ -24,10 +24,10 @@
       <title>Maeve Ascendant</title>
       <genre>Fantasy</genre>
       <price>5.95</price>
-      <publish_date>2000-11-17</publish_date>
-      <description>After the collapse of a nanotechnology 
-      society in England, the young survivors lay the 
-      foundation for a new society.</description>
+      <publish_date>THIS IS A TEST 1</publish_date>
+      <description>
+        After the collapse of a nanotechnology
+        sTHIS IS A TEST 1 society.</description>
    </book>
    <book id="bk104">
       <author>Corets, Eva</author>
@@ -42,7 +42,7 @@
    </book>
    <book id="bk105">
       <author>Corets, Eva</author>
-      <title>The Sundered Grail</title>
+      <title>The THIS IS A TEST 1 Grail</title>
       <genre>Fantasy</genre>
       <price>5.95</price>
       <publish_date>2001-09-10</publish_date>
